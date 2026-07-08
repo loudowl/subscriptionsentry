@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="SubscriptionSentry" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18126.1" systemVersion="20F71" minimumToolsVersion="Automatic" sourceLanguage="Swift" macOSVersion="11.0">
+    <entity name="Subscription" representedClassName="Subscription" syncable="YES">
+        <attribute name="name" optional="NO" attributeType="String" syncable="YES"/>
+        <attribute name="monthlyCost" optional="NO" attributeType="Double" syncable="YES"/>
+        <attribute name="lastUsed" optional="NO" attributeType="Date" syncable="YES"/>
+    </entity>
+</model>
